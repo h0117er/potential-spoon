@@ -1,4 +1,4 @@
-# potential-spoon
+# stablecoin-analytics
 
 ## 📊 Project Overview
 
